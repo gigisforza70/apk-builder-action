@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/gigisforza70/openboard"
+        default: "https://github.com/Victor2018/DocViewer"
       jdkVersion:
         description: "OpenJDK version to use: 8 / 11 / 17 etc."
         required: false
