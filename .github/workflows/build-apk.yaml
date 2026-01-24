@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/AndyNope/android-pdfwriter"
+        default: "https://github.com/gigisforza70/AAA"
       branchName:
         description: "Git branch name [Optional]"
         required: false
