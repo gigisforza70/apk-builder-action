@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/BlueCodeSystems/AndroidPdfViewer"
+        default: "https://github.com/WindGraham/Android-PDf-edit"
       branchName:
         description: "Git branch name [Optional]"
         required: false
